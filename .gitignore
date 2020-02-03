@@ -37,3 +37,5 @@ build/
 
 # Visual Studio Code
 .vscode/
+
+!Assets/Packages/EMGU.CV.3.4.3.3016/build/
