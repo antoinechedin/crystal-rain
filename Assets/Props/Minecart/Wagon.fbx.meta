@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: f4bc6b6604003514db8eaa6c774870f8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: GEO_Barre_1
+    100002: GEO_Barre_1 1
+    100004: GEO_Barre_1 2
+    100006: GEO_Barre_1 3
+    100008: GEO_Barre_1 4
+    100010: GEO_Barre_1 5
+    100012: GEO_Barre_2
+    100014: GEO_Barre_2 1
+    100016: GEO_Barre_2 2
+    100018: GEO_Barre_2 3
+    100020: GEO_Barre_2 4
+    100022: GEO_Barre_2 5
+    100024: GEO_Barre_3
+    100026: GEO_Barre_3 1
+    100028: GEO_Barre_3 2
+    100030: GEO_Barre_3 3
+    100032: GEO_Barre_3 4
+    100034: GEO_Barre_3 5
+    100036: GEO_Barre_4
+    100038: GEO_Barre_4 1
+    100040: GEO_Barre_4 2
+    100042: GEO_Barre_4 3
+    100044: GEO_Barre_4 4
+    100046: GEO_Barre_4 5
+    100048: GEO_Barre_5
+    100050: GEO_Barre_5 1
+    100052: GEO_Barre_5 2
+    100054: GEO_Barre_5 3
+    100056: GEO_Barre_5 4
+    100058: GEO_Barre_5 5
+    100060: GEO_Barre_6
+    100062: GEO_Barre_6 1
+    100064: GEO_Barre_6 2
+    100066: GEO_Barre_6 3
+    100068: GEO_Barre_6 4
+    100070: GEO_Barre_6 5
+    100072: GEO_Barre_7
+    100074: GEO_Barre_7 1
+    100076: GEO_Barre_7 2
+    100078: GEO_Barre_7 3
+    100080: GEO_Barre_7 4
+    100082: GEO_Barre_7 5
+    100084: GEO_Barre_8
+    100086: GEO_Barre_8 1
+    100088: GEO_Barre_8 2
+    100090: GEO_Barre_8 3
+    100092: GEO_Barre_8 4
+    100094: GEO_Barre_8 5
+    100096: GEO_Base_1
+    100098: GEO_Base_1 1
+    100100: GEO_Base_1 2
+    100102: GEO_Base_1 3
+    100104: GEO_Base_1 4
+    100106: GEO_Base_1 5
+    100108: GEO_Base_2
+    100110: GEO_Base_2 1
+    100112: GEO_Base_2 2
+    100114: GEO_Base_2 3
+    100116: GEO_Base_2 4
+    100118: GEO_Base_2 5
+    100120: GRP_Attache
+    100122: GRP_Barre
+    100124: GRP_Barre1
+    100126: GRP_COAL
+    100128: GRP_Dessous
+    100130: GRP_PilierArriere
+    100132: GRP_PlaquesTrouees
+    100134: GRP_Roues
+    100136: GRP_RouesG
+    100138: GRP_RouesG1
+    100140: GRP_VisAttache
+    100142: GRP_WAGON
+    100144: OBJ_AttacheLoco
+    100146: OBJ_AttacheRoues_3
+    100148: OBJ_AttacheRoues_4
+    100150: OBJ_AttacheRoues_5
+    100152: OBJ_AttacheWagon
+    100154: OBJ_Barre
+    100156: OBJ_Barre 1
+    100158: OBJ_BarreArrondies01
+    100160: OBJ_BarreArrondies02
+    100162: OBJ_BarreArrondies03
+    100164: OBJ_BarreArrondies04
+    100166: OBJ_BarreBenne
+    100168: OBJ_BarreBenne1
+    100170: OBJ_BarreBenne2
+    100172: OBJ_BarreBenne3
+    100174: OBJ_BarreMilieu
+    100176: OBJ_BarrePrRoues01
+    100178: OBJ_BarrePrRoues02
+    100180: OBJ_BarrePrRoues03
+    100182: OBJ_Base_WAGON
+    100184: OBJ_BaseMaintien01
+    100186: OBJ_BaseMaintien02
+    100188: OBJ_Benne
+    100190: OBJ_Coal_01
+    100192: OBJ_Coal_02
+    100194: OBJ_Coal_03
+    100196: OBJ_DessusPilierArriere
+    100198: OBJ_MaintienBarre1
+    100200: OBJ_MaintienBarre1 1
+    100202: OBJ_MaintienBarre2
+    100204: OBJ_MaintienBarre2 1
+    100206: OBJ_MaintienBenne
+    100208: OBJ_MaintienBenne1
+    100210: OBJ_MaintienBenne2
+    100212: OBJ_MaintienBenne3
+    100214: OBJ_PilierArriere
+    100216: OBJ_PlaqueArriere
+    100218: OBJ_PlaqueTrouee01
+    100220: OBJ_PlaqueTrouee02
+    100222: OBJ_PlaqueTrouee03
+    100224: OBJ_PlaqueTrouee04
+    100226: OBJ_Roue7
+    100228: OBJ_Roue7 1
+    100230: OBJ_Roue8
+    100232: OBJ_Roue8 1
+    100234: OBJ_Roue9
+    100236: OBJ_Roue9 1
+    100238: OBJ_SupportRoue
+    100240: OBJ_Tuyau_02
+    100242: OBJ_Tuyau_03
+    100244: OBJ_Tuyau_04
+    100246: OBJ_Tuyau_05
+    100248: OBJ_Tuyau_06
+    100250: OBJ_Tuyau_07
+    100252: OBJ_VisAttache01
+    100254: OBJ_VisAttache02
+    100256: OBJ_VisAttache03
+    100258: OBJ_VisAttache04
+    100260: OBJ_VisAttache05
+    100262: //RootNode
+    400000: GEO_Barre_1
+    400002: GEO_Barre_1 1
+    400004: GEO_Barre_1 2
+    400006: GEO_Barre_1 3
+    400008: GEO_Barre_1 4
+    400010: GEO_Barre_1 5
+    400012: GEO_Barre_2
+    400014: GEO_Barre_2 1
+    400016: GEO_Barre_2 2
+    400018: GEO_Barre_2 3
+    400020: GEO_Barre_2 4
+    400022: GEO_Barre_2 5
+    400024: GEO_Barre_3
+    400026: GEO_Barre_3 1
+    400028: GEO_Barre_3 2
+    400030: GEO_Barre_3 3
+    400032: GEO_Barre_3 4
+    400034: GEO_Barre_3 5
+    400036: GEO_Barre_4
+    400038: GEO_Barre_4 1
+    400040: GEO_Barre_4 2
+    400042: GEO_Barre_4 3
+    400044: GEO_Barre_4 4
+    400046: GEO_Barre_4 5
+    400048: GEO_Barre_5
+    400050: GEO_Barre_5 1
+    400052: GEO_Barre_5 2
+    400054: GEO_Barre_5 3
+    400056: GEO_Barre_5 4
+    400058: GEO_Barre_5 5
+    400060: GEO_Barre_6
+    400062: GEO_Barre_6 1
+    400064: GEO_Barre_6 2
+    400066: GEO_Barre_6 3
+    400068: GEO_Barre_6 4
+    400070: GEO_Barre_6 5
+    400072: GEO_Barre_7
+    400074: GEO_Barre_7 1
+    400076: GEO_Barre_7 2
+    400078: GEO_Barre_7 3
+    400080: GEO_Barre_7 4
+    400082: GEO_Barre_7 5
+    400084: GEO_Barre_8
+    400086: GEO_Barre_8 1
+    400088: GEO_Barre_8 2
+    400090: GEO_Barre_8 3
+    400092: GEO_Barre_8 4
+    400094: GEO_Barre_8 5
+    400096: GEO_Base_1
+    400098: GEO_Base_1 1
+    400100: GEO_Base_1 2
+    400102: GEO_Base_1 3
+    400104: GEO_Base_1 4
+    400106: GEO_Base_1 5
+    400108: GEO_Base_2
+    400110: GEO_Base_2 1
+    400112: GEO_Base_2 2
+    400114: GEO_Base_2 3
+    400116: GEO_Base_2 4
+    400118: GEO_Base_2 5
+    400120: GRP_Attache
+    400122: GRP_Barre
+    400124: GRP_Barre1
+    400126: GRP_COAL
+    400128: GRP_Dessous
+    400130: GRP_PilierArriere
+    400132: GRP_PlaquesTrouees
+    400134: GRP_Roues
+    400136: GRP_RouesG
+    400138: GRP_RouesG1
+    400140: GRP_VisAttache
+    400142: GRP_WAGON
+    400144: OBJ_AttacheLoco
+    400146: OBJ_AttacheRoues_3
+    400148: OBJ_AttacheRoues_4
+    400150: OBJ_AttacheRoues_5
+    400152: OBJ_AttacheWagon
+    400154: OBJ_Barre
+    400156: OBJ_Barre 1
+    400158: OBJ_BarreArrondies01
+    400160: OBJ_BarreArrondies02
+    400162: OBJ_BarreArrondies03
+    400164: OBJ_BarreArrondies04
+    400166: OBJ_BarreBenne
+    400168: OBJ_BarreBenne1
+    400170: OBJ_BarreBenne2
+    400172: OBJ_BarreBenne3
+    400174: OBJ_BarreMilieu
+    400176: OBJ_BarrePrRoues01
+    400178: OBJ_BarrePrRoues02
+    400180: OBJ_BarrePrRoues03
+    400182: OBJ_Base_WAGON
+    400184: OBJ_BaseMaintien01
+    400186: OBJ_BaseMaintien02
+    400188: OBJ_Benne
+    400190: OBJ_Coal_01
+    400192: OBJ_Coal_02
+    400194: OBJ_Coal_03
+    400196: OBJ_DessusPilierArriere
+    400198: OBJ_MaintienBarre1
+    400200: OBJ_MaintienBarre1 1
+    400202: OBJ_MaintienBarre2
+    400204: OBJ_MaintienBarre2 1
+    400206: OBJ_MaintienBenne
+    400208: OBJ_MaintienBenne1
+    400210: OBJ_MaintienBenne2
+    400212: OBJ_MaintienBenne3
+    400214: OBJ_PilierArriere
+    400216: OBJ_PlaqueArriere
+    400218: OBJ_PlaqueTrouee01
+    400220: OBJ_PlaqueTrouee02
+    400222: OBJ_PlaqueTrouee03
+    400224: OBJ_PlaqueTrouee04
+    400226: OBJ_Roue7
+    400228: OBJ_Roue7 1
+    400230: OBJ_Roue8
+    400232: OBJ_Roue8 1
+    400234: OBJ_Roue9
+    400236: OBJ_Roue9 1
+    400238: OBJ_SupportRoue
+    400240: OBJ_Tuyau_02
+    400242: OBJ_Tuyau_03
+    400244: OBJ_Tuyau_04
+    400246: OBJ_Tuyau_05
+    400248: OBJ_Tuyau_06
+    400250: OBJ_Tuyau_07
+    400252: OBJ_VisAttache01
+    400254: OBJ_VisAttache02
+    400256: OBJ_VisAttache03
+    400258: OBJ_VisAttache04
+    400260: OBJ_VisAttache05
+    400262: //RootNode
+    2300000: GEO_Barre_1
+    2300002: GEO_Barre_1 1
+    2300004: GEO_Barre_1 2
+    2300006: GEO_Barre_1 3
+    2300008: GEO_Barre_1 4
+    2300010: GEO_Barre_1 5
+    2300012: GEO_Barre_2
+    2300014: GEO_Barre_2 1
+    2300016: GEO_Barre_2 2
+    2300018: GEO_Barre_2 3
+    2300020: GEO_Barre_2 4
+    2300022: GEO_Barre_2 5
+    2300024: GEO_Barre_3
+    2300026: GEO_Barre_3 1
+    2300028: GEO_Barre_3 2
+    2300030: GEO_Barre_3 3
+    2300032: GEO_Barre_3 4
+    2300034: GEO_Barre_3 5
+    2300036: GEO_Barre_4
+    2300038: GEO_Barre_4 1
+    2300040: GEO_Barre_4 2
+    2300042: GEO_Barre_4 3
+    2300044: GEO_Barre_4 4
+    2300046: GEO_Barre_4 5
+    2300048: GEO_Barre_5
+    2300050: GEO_Barre_5 1
+    2300052: GEO_Barre_5 2
+    2300054: GEO_Barre_5 3
+    2300056: GEO_Barre_5 4
+    2300058: GEO_Barre_5 5
+    2300060: GEO_Barre_6
+    2300062: GEO_Barre_6 1
+    2300064: GEO_Barre_6 2
+    2300066: GEO_Barre_6 3
+    2300068: GEO_Barre_6 4
+    2300070: GEO_Barre_6 5
+    2300072: GEO_Barre_7
+    2300074: GEO_Barre_7 1
+    2300076: GEO_Barre_7 2
+    2300078: GEO_Barre_7 3
+    2300080: GEO_Barre_7 4
+    2300082: GEO_Barre_7 5
+    2300084: GEO_Barre_8
+    2300086: GEO_Barre_8 1
+    2300088: GEO_Barre_8 2
+    2300090: GEO_Barre_8 3
+    2300092: GEO_Barre_8 4
+    2300094: GEO_Barre_8 5
+    2300096: GEO_Base_1
+    2300098: GEO_Base_1 1
+    2300100: GEO_Base_1 2
+    2300102: GEO_Base_1 3
+    2300104: GEO_Base_1 4
+    2300106: GEO_Base_1 5
+    2300108: GEO_Base_2
+    2300110: GEO_Base_2 1
+    2300112: GEO_Base_2 2
+    2300114: GEO_Base_2 3
+    2300116: GEO_Base_2 4
+    2300118: GEO_Base_2 5
+    2300120: OBJ_AttacheLoco
+    2300122: OBJ_AttacheRoues_3
+    2300124: OBJ_AttacheRoues_4
+    2300126: OBJ_AttacheRoues_5
+    2300128: OBJ_AttacheWagon
+    2300130: OBJ_Barre
+    2300132: OBJ_Barre 1
+    2300134: OBJ_BarreArrondies01
+    2300136: OBJ_BarreArrondies02
+    2300138: OBJ_BarreArrondies03
+    2300140: OBJ_BarreArrondies04
+    2300142: OBJ_BarreBenne
+    2300144: OBJ_BarreBenne1
+    2300146: OBJ_BarreBenne2
+    2300148: OBJ_BarreBenne3
+    2300150: OBJ_BarreMilieu
+    2300152: OBJ_BarrePrRoues01
+    2300154: OBJ_BarrePrRoues02
+    2300156: OBJ_BarrePrRoues03
+    2300158: OBJ_Base_WAGON
+    2300160: OBJ_BaseMaintien01
+    2300162: OBJ_BaseMaintien02
+    2300164: OBJ_Benne
+    2300166: OBJ_Coal_01
+    2300168: OBJ_Coal_02
+    2300170: OBJ_Coal_03
+    2300172: OBJ_DessusPilierArriere
+    2300174: OBJ_MaintienBarre1
+    2300176: OBJ_MaintienBarre1 1
+    2300178: OBJ_MaintienBarre2
+    2300180: OBJ_MaintienBarre2 1
+    2300182: OBJ_MaintienBenne
+    2300184: OBJ_MaintienBenne1
+    2300186: OBJ_MaintienBenne2
+    2300188: OBJ_MaintienBenne3
+    2300190: OBJ_PilierArriere
+    2300192: OBJ_PlaqueArriere
+    2300194: OBJ_PlaqueTrouee01
+    2300196: OBJ_PlaqueTrouee02
+    2300198: OBJ_PlaqueTrouee03
+    2300200: OBJ_PlaqueTrouee04
+    2300202: OBJ_SupportRoue
+    2300204: OBJ_Tuyau_02
+    2300206: OBJ_Tuyau_03
+    2300208: OBJ_Tuyau_04
+    2300210: OBJ_Tuyau_05
+    2300212: OBJ_Tuyau_06
+    2300214: OBJ_Tuyau_07
+    2300216: OBJ_VisAttache01
+    2300218: OBJ_VisAttache02
+    2300220: OBJ_VisAttache03
+    2300222: OBJ_VisAttache04
+    2300224: OBJ_VisAttache05
+    3300000: GEO_Barre_1
+    3300002: GEO_Barre_1 1
+    3300004: GEO_Barre_1 2
+    3300006: GEO_Barre_1 3
+    3300008: GEO_Barre_1 4
+    3300010: GEO_Barre_1 5
+    3300012: GEO_Barre_2
+    3300014: GEO_Barre_2 1
+    3300016: GEO_Barre_2 2
+    3300018: GEO_Barre_2 3
+    3300020: GEO_Barre_2 4
+    3300022: GEO_Barre_2 5
+    3300024: GEO_Barre_3
+    3300026: GEO_Barre_3 1
+    3300028: GEO_Barre_3 2
+    3300030: GEO_Barre_3 3
+    3300032: GEO_Barre_3 4
+    3300034: GEO_Barre_3 5
+    3300036: GEO_Barre_4
+    3300038: GEO_Barre_4 1
+    3300040: GEO_Barre_4 2
+    3300042: GEO_Barre_4 3
+    3300044: GEO_Barre_4 4
+    3300046: GEO_Barre_4 5
+    3300048: GEO_Barre_5
+    3300050: GEO_Barre_5 1
+    3300052: GEO_Barre_5 2
+    3300054: GEO_Barre_5 3
+    3300056: GEO_Barre_5 4
+    3300058: GEO_Barre_5 5
+    3300060: GEO_Barre_6
+    3300062: GEO_Barre_6 1
+    3300064: GEO_Barre_6 2
+    3300066: GEO_Barre_6 3
+    3300068: GEO_Barre_6 4
+    3300070: GEO_Barre_6 5
+    3300072: GEO_Barre_7
+    3300074: GEO_Barre_7 1
+    3300076: GEO_Barre_7 2
+    3300078: GEO_Barre_7 3
+    3300080: GEO_Barre_7 4
+    3300082: GEO_Barre_7 5
+    3300084: GEO_Barre_8
+    3300086: GEO_Barre_8 1
+    3300088: GEO_Barre_8 2
+    3300090: GEO_Barre_8 3
+    3300092: GEO_Barre_8 4
+    3300094: GEO_Barre_8 5
+    3300096: GEO_Base_1
+    3300098: GEO_Base_1 1
+    3300100: GEO_Base_1 2
+    3300102: GEO_Base_1 3
+    3300104: GEO_Base_1 4
+    3300106: GEO_Base_1 5
+    3300108: GEO_Base_2
+    3300110: GEO_Base_2 1
+    3300112: GEO_Base_2 2
+    3300114: GEO_Base_2 3
+    3300116: GEO_Base_2 4
+    3300118: GEO_Base_2 5
+    3300120: OBJ_AttacheLoco
+    3300122: OBJ_AttacheRoues_3
+    3300124: OBJ_AttacheRoues_4
+    3300126: OBJ_AttacheRoues_5
+    3300128: OBJ_AttacheWagon
+    3300130: OBJ_Barre
+    3300132: OBJ_Barre 1
+    3300134: OBJ_BarreArrondies01
+    3300136: OBJ_BarreArrondies02
+    3300138: OBJ_BarreArrondies03
+    3300140: OBJ_BarreArrondies04
+    3300142: OBJ_BarreBenne
+    3300144: OBJ_BarreBenne1
+    3300146: OBJ_BarreBenne2
+    3300148: OBJ_BarreBenne3
+    3300150: OBJ_BarreMilieu
+    3300152: OBJ_BarrePrRoues01
+    3300154: OBJ_BarrePrRoues02
+    3300156: OBJ_BarrePrRoues03
+    3300158: OBJ_Base_WAGON
+    3300160: OBJ_BaseMaintien01
+    3300162: OBJ_BaseMaintien02
+    3300164: OBJ_Benne
+    3300166: OBJ_Coal_01
+    3300168: OBJ_Coal_02
+    3300170: OBJ_Coal_03
+    3300172: OBJ_DessusPilierArriere
+    3300174: OBJ_MaintienBarre1
+    3300176: OBJ_MaintienBarre1 1
+    3300178: OBJ_MaintienBarre2
+    3300180: OBJ_MaintienBarre2 1
+    3300182: OBJ_MaintienBenne
+    3300184: OBJ_MaintienBenne1
+    3300186: OBJ_MaintienBenne2
+    3300188: OBJ_MaintienBenne3
+    3300190: OBJ_PilierArriere
+    3300192: OBJ_PlaqueArriere
+    3300194: OBJ_PlaqueTrouee01
+    3300196: OBJ_PlaqueTrouee02
+    3300198: OBJ_PlaqueTrouee03
+    3300200: OBJ_PlaqueTrouee04
+    3300202: OBJ_SupportRoue
+    3300204: OBJ_Tuyau_02
+    3300206: OBJ_Tuyau_03
+    3300208: OBJ_Tuyau_04
+    3300210: OBJ_Tuyau_05
+    3300212: OBJ_Tuyau_06
+    3300214: OBJ_Tuyau_07
+    3300216: OBJ_VisAttache01
+    3300218: OBJ_VisAttache02
+    3300220: OBJ_VisAttache03
+    3300222: OBJ_VisAttache04
+    3300224: OBJ_VisAttache05
+    4300000: OBJ_Base_WAGON
+    4300002: OBJ_Benne
+    4300004: OBJ_MaintienBenne
+    4300006: OBJ_BarreBenne
+    4300008: OBJ_BarreBenne1
+    4300010: OBJ_BarreBenne2
+    4300012: OBJ_BarreBenne3
+    4300014: OBJ_MaintienBenne1
+    4300016: OBJ_MaintienBenne2
+    4300018: OBJ_MaintienBenne3
+    4300020: OBJ_DessusPilierArriere
+    4300022: OBJ_PilierArriere
+    4300024: OBJ_PlaqueArriere
+    4300026: OBJ_Barre
+    4300028: OBJ_MaintienBarre2
+    4300030: OBJ_MaintienBarre1
+    4300032: OBJ_Barre
+    4300034: OBJ_MaintienBarre2
+    4300036: OBJ_MaintienBarre1
+    4300038: OBJ_BaseMaintien01
+    4300040: OBJ_BaseMaintien02
+    4300042: OBJ_BarreArrondies01
+    4300044: OBJ_BarreArrondies02
+    4300046: OBJ_BarreArrondies03
+    4300048: OBJ_BarreArrondies04
+    4300050: OBJ_BarreMilieu
+    4300052: OBJ_BarrePrRoues01
+    4300054: OBJ_BarrePrRoues02
+    4300056: OBJ_BarrePrRoues03
+    4300058: OBJ_SupportRoue
+    4300060: OBJ_Tuyau_04
+    4300062: OBJ_Tuyau_03
+    4300064: OBJ_Tuyau_02
+    4300066: OBJ_Tuyau_05
+    4300068: OBJ_Tuyau_06
+    4300070: OBJ_Tuyau_07
+    4300072: OBJ_AttacheRoues_5
+    4300074: OBJ_AttacheRoues_3
+    4300076: OBJ_AttacheRoues_4
+    4300078: GEO_Barre_8
+    4300080: GEO_Barre_7
+    4300082: GEO_Barre_6
+    4300084: GEO_Barre_5
+    4300086: GEO_Barre_4
+    4300088: GEO_Barre_3
+    4300090: GEO_Barre_2
+    4300092: GEO_Barre_1
+    4300094: GEO_Base_2
+    4300096: GEO_Base_1
+    4300098: GEO_Barre_8
+    4300100: GEO_Barre_7
+    4300102: GEO_Barre_6
+    4300104: GEO_Barre_5
+    4300106: GEO_Barre_4
+    4300108: GEO_Barre_3
+    4300110: GEO_Barre_2
+    4300112: GEO_Barre_1
+    4300114: GEO_Base_2
+    4300116: GEO_Base_1
+    4300118: GEO_Barre_8
+    4300120: GEO_Barre_7
+    4300122: GEO_Barre_6
+    4300124: GEO_Barre_5
+    4300126: GEO_Barre_4
+    4300128: GEO_Barre_3
+    4300130: GEO_Barre_2
+    4300132: GEO_Barre_1
+    4300134: GEO_Base_2
+    4300136: GEO_Base_1
+    4300138: GEO_Barre_8
+    4300140: GEO_Barre_7
+    4300142: GEO_Barre_6
+    4300144: GEO_Barre_5
+    4300146: GEO_Barre_4
+    4300148: GEO_Barre_3
+    4300150: GEO_Barre_2
+    4300152: GEO_Barre_1
+    4300154: GEO_Base_2
+    4300156: GEO_Base_1
+    4300158: GEO_Barre_8
+    4300160: GEO_Barre_7
+    4300162: GEO_Barre_6
+    4300164: GEO_Barre_5
+    4300166: GEO_Barre_4
+    4300168: GEO_Barre_3
+    4300170: GEO_Barre_2
+    4300172: GEO_Barre_1
+    4300174: GEO_Base_2
+    4300176: GEO_Base_1
+    4300178: GEO_Barre_8
+    4300180: GEO_Barre_7
+    4300182: GEO_Barre_6
+    4300184: GEO_Barre_5
+    4300186: GEO_Barre_4
+    4300188: GEO_Barre_3
+    4300190: GEO_Barre_2
+    4300192: GEO_Barre_1
+    4300194: GEO_Base_2
+    4300196: GEO_Base_1
+    4300198: OBJ_PlaqueTrouee04
+    4300200: OBJ_PlaqueTrouee03
+    4300202: OBJ_PlaqueTrouee02
+    4300204: OBJ_PlaqueTrouee01
+    4300206: OBJ_AttacheWagon
+    4300208: OBJ_VisAttache05
+    4300210: OBJ_VisAttache04
+    4300212: OBJ_VisAttache03
+    4300214: OBJ_VisAttache02
+    4300216: OBJ_VisAttache01
+    4300218: OBJ_AttacheLoco
+    4300220: OBJ_Coal_01
+    4300222: OBJ_Coal_02
+    4300224: OBJ_Coal_03
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHD_COAL_WagonSam
+    second: {fileID: 2100000, guid: db1951c20c32e7c44a01619f855b4e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHD_Wagon_WagonSam
+    second: {fileID: 2100000, guid: db867b3d2d406bb4e9e49c4497c3837c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WAGON_SAM_SHD_Chrome
+    second: {fileID: 2100000, guid: db867b3d2d406bb4e9e49c4497c3837c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
