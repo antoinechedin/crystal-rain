@@ -1,5 +1,5 @@
 # CRYSTAL RAIN
-Gamagora 2019 - Vision par Ordinateur - Flow
+Gamagora 2019 - Vision par Ordinateur - Crystal Rain
 
 ## Participants au projet : 
 ***Antoine CHEDIN & Rendy LATBI***
