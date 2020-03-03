@@ -5,9 +5,9 @@ Gamagora 2019 - Vision par Ordinateur - Flow
 ***Antoine CHEDIN & Rendy LATBI***
 
 ## Illustrations  : 
-![Illustration1](Images/Preview1.png)
-![Illustration2](Images/Preview2.png)
-![Illustration3](Images/Preview3.png)
+![Illustration1](Assets/Images/Preview1.png)
+![Illustration2](Assets/Images/Preview2.png)
+![Illustration3](Assets/Images/Preview3.png)
 
 ## Fiche signalétique :
 *Crystal Rain est un jeu de gestion. En vue troisième personne, le joueur contrôle un groupe de mineurs et doit collecter un maximum de minerais. Des wagons explosifs apparaissent au cours de la partie et ce dernier doit faire en sorte de ne perdre aucun mineur en évitant tout contact avec ces wagons !*<br><br>
