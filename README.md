@@ -17,12 +17,12 @@ Les minerais doivent être rapportés à la base de la couleur qui leur est asso
 Si un mineur entre en contact avec un wagon, le joueur perd, et le jeu s'arrête.<br>
 Le Score final est la somme des minerais stockés dans les bases des mineurs.<br>
 Pour déplacer les mineurs, on place sur un plateau des marqueurs :
-- **La caméra** filme le plateau et la position blabla 
-- **La caméra** filme le plateau et la position conversion des coords
-- **La caméra** filme le plateau et la position le mineur va vers la target
-- **La caméra** filme le plateau et la position si y'a un minerai a portée il mine (file d'attente)
+- La caméra filme le plateau, on analyse l'image obtenue à l'aide des 4 coins du plateau
+- A partir de l'image on "aplatit" l'image filmée pour obtenir un repère orthogonal
+- Ensuite on détermine la position relative des marqueurs par rapport aux coins dans ce repère
+- On réalise ensuite la correspondance entre la position d'un marqueur et la position dans le jeu
 
 ## Répartition des tâches :
 - ***Antoine*** : Score/ComboManager, Interface, Inputs, Generation d'Obstacles Endless
-- ***Rendy*** : Sons, Animations, Particules, Game Manager, Animation des Wagons, Post Processing
+- ***Rendy*** : Sons, Animations, Particules, Game Manager, Minerais, Animation des Wagons, Post Processing
 - *Wagons & Rails réalisés par MediaaEdit, IG : Mediaa.edits*
